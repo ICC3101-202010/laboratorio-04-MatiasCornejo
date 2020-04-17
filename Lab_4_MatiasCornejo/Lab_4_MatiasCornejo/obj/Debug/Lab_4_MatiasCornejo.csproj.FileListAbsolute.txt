@@ -1,0 +1,6 @@
+/Users/matiascornejolazcano/Desktop/laboratorio-04-MatiasCornejo/Lab_4_MatiasCornejo/Lab_4_MatiasCornejo/obj/Debug/Lab_4_MatiasCornejo.csprojAssemblyReference.cache
+/Users/matiascornejolazcano/Desktop/laboratorio-04-MatiasCornejo/Lab_4_MatiasCornejo/Lab_4_MatiasCornejo/obj/Debug/Lab_4_MatiasCornejo.csproj.CoreCompileInputs.cache
+/Users/matiascornejolazcano/Desktop/laboratorio-04-MatiasCornejo/Lab_4_MatiasCornejo/Lab_4_MatiasCornejo/bin/Debug/Lab_4_MatiasCornejo.exe
+/Users/matiascornejolazcano/Desktop/laboratorio-04-MatiasCornejo/Lab_4_MatiasCornejo/Lab_4_MatiasCornejo/bin/Debug/Lab_4_MatiasCornejo.pdb
+/Users/matiascornejolazcano/Desktop/laboratorio-04-MatiasCornejo/Lab_4_MatiasCornejo/Lab_4_MatiasCornejo/obj/Debug/Lab_4_MatiasCornejo.exe
+/Users/matiascornejolazcano/Desktop/laboratorio-04-MatiasCornejo/Lab_4_MatiasCornejo/Lab_4_MatiasCornejo/obj/Debug/Lab_4_MatiasCornejo.pdb

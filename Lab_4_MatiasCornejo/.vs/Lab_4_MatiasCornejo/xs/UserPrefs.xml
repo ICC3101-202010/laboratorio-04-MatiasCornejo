@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{334DAA0A-C29C-4EA2-B3DA-5834E8EE4A90}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab__4__MatiasCornejo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab_4_MatiasCornejo/Program.cs">
+    <Files>
+      <File FileName="Lab_4_MatiasCornejo/Program.cs" Line="112" Column="1" />
+      <File FileName="Lab_4_MatiasCornejo/BaseMachine.cs" Line="40" Column="1" />
+      <File FileName="Lab_4_MatiasCornejo/Recepcion.cs" Line="21" Column="1" />
+      <File FileName="Lab_4_MatiasCornejo/Almacenamiento.cs" Line="27" Column="1" />
+      <File FileName="Lab_4_MatiasCornejo/Verificacion.cs" Line="27" Column="1" />
+      <File FileName="Lab_4_MatiasCornejo/Ensamblaje.cs" Line="27" Column="1" />
+      <File FileName="Lab_4_MatiasCornejo/Empaque.cs" Line="2" Column="15" />
+      <File FileName="Lab_4_MatiasCornejo/IReset.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab_4_MatiasCornejo" expanded="True">
+            <Node name="Lab_4_MatiasCornejo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
