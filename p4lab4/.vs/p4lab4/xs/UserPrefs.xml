@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E391CE21-DB48-4345-9F4E-81DA0A35C75A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="p4lab4/Program.cs">
+    <Files>
+      <File FileName="p4lab4/Program.cs" Line="1" Column="1" />
+      <File FileName="p4lab4/BaseMachine.cs" Line="1" Column="1" />
+      <File FileName="p4lab4/Recepsion.cs" Line="1" Column="1" />
+      <File FileName="p4lab4/Almacenamiento.cs" Line="1" Column="1" />
+      <File FileName="p4lab4/Verificacion.cs" Line="1" Column="1" />
+      <File FileName="p4lab4/Ensamblaje.cs" Line="1" Column="1" />
+      <File FileName="p4lab4/Empaque.cs" Line="1" Column="1" />
+      <File FileName="p4lab4/EmptyInterface.cs" Line="5" Column="6" />
+      <File FileName="p4lab4/.gitignore" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="p4lab4" expanded="True">
+            <Node name="p4lab4" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.p4lab4 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
